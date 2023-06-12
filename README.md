@@ -36,3 +36,10 @@ end
 For LSP Config
 
 [LSP zero List](https://github.com/williamboman/mason-lspconfig.nvim#available-lsp-servers)
+
+To Alias
+
+alias vi="nvim"
+alias vim="nvim"
+alias view="nvim -R"
+alias vimdiff="nvim -d"
